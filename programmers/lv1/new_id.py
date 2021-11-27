@@ -35,3 +35,7 @@ def solution(new_id):
 
 
 solution('abcdefghijklmn.p')
+
+
+# 문자열 처리에 정규식을 이용할 수 있는지 확인
+# import re
