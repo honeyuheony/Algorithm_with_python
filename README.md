@@ -65,8 +65,9 @@
 ### Level2
 
 | 문제 | 코드 | 풀이 |
-| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                       | [code](programmers/lv2/60057.py)  |      |
 | ---- | :--: | ---: |
+| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                       | [code](programmers/lv2/60057.py)  |      |
+
 
 ### Level3
 
