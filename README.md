@@ -6,7 +6,7 @@
 
 ### Level1
 
-| 문제                                                                                     |               코드                | 풀이 |
+| 문제                                                                                     |               코드                |  |
 | ---------------------------------------------------------------------------------------- | :-------------------------------: | ---: |
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)                       | [code](programmers/lv1/12901.py)  |      |
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)         | [code](programmers/lv1/12903.py)  |      |
@@ -64,9 +64,9 @@
 
 ### Level2
 
-| 문제 | 코드 | 풀이 |
+| 문제 | 코드 | 분류 |
 | ---- | :--: | ---: |
-| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                       | [code](programmers/lv2/60057.py)  |      |
+| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                       | [code](programmers/lv2/60057.py)  | 문자열, 구현 |
 
 
 ### Level3
