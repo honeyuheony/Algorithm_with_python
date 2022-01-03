@@ -1,7 +1,7 @@
 # programmers level2 문자열압축
 # https://programmers.co.kr/learn/courses/30/lessons/60057
 # 문자열의 반복패턴을 찾아 가장 짧게 압축할 수 있는 길이 반환
-# 동적계획법
+# 문자열, 구현
 # 1 ~ 문자열 절반길이까지 슬라이싱 후 자른 토막끼리 연속검사
 # 압축문자열 생성하고 길이검사
 
