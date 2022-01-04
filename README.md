@@ -64,11 +64,12 @@
 
 ### Level2
 
-| 문제                                                                     |               코드               |           분류 |
-| ------------------------------------------------------------------------ | :------------------------------: | -------------: |
-| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)   | [code](programmers/lv2/60057.py) |   문자열, 구현 |
-| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)   | [code](programmers/lv2/42888.py) |   문자열, 구현 |
-| [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/60248) | [code](programmers/lv2/60248.py) | 수학(답보고품) |
+| 문제                                                                       |               코드               |           분류 |
+| -------------------------------------------------------------------------- | :------------------------------: | -------------: |
+| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)     | [code](programmers/lv2/60057.py) |   문자열, 구현 |
+| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)     | [code](programmers/lv2/42888.py) |   문자열, 구현 |
+| [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/60248)   | [code](programmers/lv2/60248.py) | 수학(답보고품) |
+| [124나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [code](programmers/lv2/12899.py) |           수학 |
 
 ### Level3
 
