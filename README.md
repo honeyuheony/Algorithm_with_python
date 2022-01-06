@@ -71,6 +71,7 @@
 | [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/60248)   | [code](programmers/lv2/60248.py) | 수학(답보고품) |
 | [124나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [code](programmers/lv2/12899.py) |           수학 |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)       | [code](programmers/lv2/42586.py) |           수학 |
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42646)        | [code](programmers/lv2/42646.py) |             힙 |
 
 ### Level3
 
