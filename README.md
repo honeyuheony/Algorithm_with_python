@@ -64,16 +64,17 @@
 
 ### Level2
 
-| 문제                                                                        |               코드               |           분류 |
-| --------------------------------------------------------------------------- | :------------------------------: | -------------: |
-| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)      | [code](programmers/lv2/60057.py) |   문자열, 구현 |
-| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)      | [code](programmers/lv2/42888.py) |   문자열, 구현 |
-| [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/60248)    | [code](programmers/lv2/60248.py) | 수학(답보고품) |
-| [124나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)  | [code](programmers/lv2/12899.py) |           수학 |
-| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)        | [code](programmers/lv2/42586.py) |           수학 |
-| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42646)         | [code](programmers/lv2/42646.py) |             힙 |
-| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)       | [code](programmers/lv2/43165.py) |            DFS |
-| [짝지어 계산하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [code](programmers/lv2/12973.py) |           스택 |
+| 문제                                                                             |               코드               |           분류 |
+| -------------------------------------------------------------------------------- | :------------------------------: | -------------: |
+| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)           | [code](programmers/lv2/60057.py) |   문자열, 구현 |
+| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)           | [code](programmers/lv2/42888.py) |   문자열, 구현 |
+| [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/60248)         | [code](programmers/lv2/60248.py) | 수학(답보고품) |
+| [124나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)       | [code](programmers/lv2/12899.py) |           수학 |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)             | [code](programmers/lv2/42586.py) |           수학 |
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42646)              | [code](programmers/lv2/42646.py) |             힙 |
+| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)            | [code](programmers/lv2/43165.py) |            DFS |
+| [짝지어 계산하기](https://programmers.co.kr/learn/courses/30/lessons/12973)      | [code](programmers/lv2/12973.py) |           스택 |
+| [행렬 태두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [code](programmers/lv2/77485.py) |     스택, 구현 |
 
 ### Level3
 
