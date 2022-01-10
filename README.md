@@ -75,6 +75,7 @@
 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)            | [code](programmers/lv2/43165.py) |            DFS |
 | [짝지어 계산하기](https://programmers.co.kr/learn/courses/30/lessons/12973)      | [code](programmers/lv2/12973.py) |           스택 |
 | [행렬 태두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [code](programmers/lv2/77485.py) |     스택, 구현 |
+| [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)          | [code](programmers/lv2/72411.py) |           조합 |
 
 ### Level3
 
