@@ -89,7 +89,7 @@
 | 문제                                                      |              코드               |         풀이 |
 | --------------------------------------------------------- | :-----------------------------: | -----------: |
 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [code](baekjoon/bronze/1085.py) | 수학, 기하학 |
-| [팰린드롬수](https://www.acmicpc.net/problem/1259)        | [code](baekjoon/bronze/1259.py) | 수학, 기하학 |
+| [팰린드롬수](https://www.acmicpc.net/problem/1259)        | [code](baekjoon/bronze/1259.py) | 문자열, 구현 |
 
 ### Silver
 
@@ -97,3 +97,4 @@
 | ---------------------------------------------------------- | :-----------------------------: | -----------: |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [code](baekjoon/bronze/1018.py) |   브루트포스 |
 | [단어 정렬](https://www.acmicpc.net/problem/1181)          | [code](baekjoon/bronze/1181.py) | 문자열, 정렬 |
+| [영화감독 숌]](https://www.acmicpc.net/problem/1436)       | [code](baekjoon/bronze/1436.py) | 문자열, 정렬 |
