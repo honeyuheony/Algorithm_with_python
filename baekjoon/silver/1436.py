@@ -1,6 +1,6 @@
 # baekjoon s5 영화감독 숌
 # https://www.acmicpc.net/problem/1436
-# 666
+# 브루트포스
 
 n = int(input())
 solve = []
