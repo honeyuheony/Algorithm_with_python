@@ -95,8 +95,8 @@
 
 | 문제                                                       |              코드               |         풀이 |
 | ---------------------------------------------------------- | :-----------------------------: | -----------: |
-| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [code](baekjoon/bronze/1018.py) |   브루트포스 |
-| [단어 정렬](https://www.acmicpc.net/problem/1181)          | [code](baekjoon/bronze/1181.py) | 문자열, 정렬 |
-| [영화감독 숌](https://www.acmicpc.net/problem/1436)        | [code](baekjoon/bronze/1436.py) |   브루트포스 |
-| [랜선자르기](https://www.acmicpc.net/problem/1654)         | [code](baekjoon/bronze/1654.py) |     이진탐색 |
-| [스택 수열](https://www.acmicpc.net/problem/1874)          | [code](baekjoon/bronze/1874.py) |         스택 |
+| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [code](baekjoon/silver/1018.py) |   브루트포스 |
+| [단어 정렬](https://www.acmicpc.net/problem/1181)          | [code](baekjoon/silver/1181.py) | 문자열, 정렬 |
+| [영화감독 숌](https://www.acmicpc.net/problem/1436)        | [code](baekjoon/silver/1436.py) |   브루트포스 |
+| [랜선자르기](https://www.acmicpc.net/problem/1654)         | [code](baekjoon/silver/1654.py) |     이진탐색 |
+| [스택 수열](https://www.acmicpc.net/problem/1874)          | [code](baekjoon/silver/1874.py) |         스택 |
