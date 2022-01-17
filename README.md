@@ -100,3 +100,4 @@
 | [영화감독 숌](https://www.acmicpc.net/problem/1436)        | [code](baekjoon/silver/1436.py) |   브루트포스 |
 | [랜선자르기](https://www.acmicpc.net/problem/1654)         | [code](baekjoon/silver/1654.py) |     이진탐색 |
 | [스택 수열](https://www.acmicpc.net/problem/1874)          | [code](baekjoon/silver/1874.py) |         스택 |
+| [수 찾기](https://www.acmicpc.net/problem/1920)            | [code](baekjoon/silver/1920.py) |         집합 |
