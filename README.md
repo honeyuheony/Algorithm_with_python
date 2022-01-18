@@ -102,3 +102,4 @@
 | [스택 수열](https://www.acmicpc.net/problem/1874)          | [code](baekjoon/silver/1874.py) |         스택 |
 | [수 찾기](https://www.acmicpc.net/problem/1920)            | [code](baekjoon/silver/1920.py) |         집합 |
 | [소수 구하기](https://www.acmicpc.net/problem/1929)        | [code](baekjoon/silver/1929.py) |       정수론 |
+| [프린터 큐](https://www.acmicpc.net/problem/1966)          | [code](baekjoon/silver/1966.py) |           큐 |
