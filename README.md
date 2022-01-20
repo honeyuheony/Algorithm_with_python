@@ -104,3 +104,4 @@
 | [소수 구하기](https://www.acmicpc.net/problem/1929)        | [code](baekjoon/silver/1929.py) |       정수론 |
 | [프린터 큐](https://www.acmicpc.net/problem/1966)          | [code](baekjoon/silver/1966.py) |           큐 |
 | [소수 찾기](https://www.acmicpc.net/problem/1978)          | [code](baekjoon/silver/1978.py) |       정수론 |
+| [통계학](https://www.acmicpc.net/problem/2108)             | [code](baekjoon/silver/2108.py) |   구현, 정렬 |
