@@ -112,3 +112,4 @@
 | [카드2](https://www.acmicpc.net/problem/2164)                   | [code](baekjoon/silver/2164.py) |           큐 |
 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [code](baekjoon/silver/2609.py) | 수학, 정수론 |
 | [수정렬하기2](https://www.acmicpc.net/problem/2751)             | [code](baekjoon/silver/2751.py) |         정렬 |
+| [괄호](https://www.acmicpc.net/problem/9012)                    | [code](baekjoon/silver/9012.py) |       문자열 |
