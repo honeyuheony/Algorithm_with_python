@@ -91,6 +91,7 @@
 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [code](baekjoon/bronze/1085.py) | 수학, 기하학 |
 | [팰린드롬수](https://www.acmicpc.net/problem/1259)        | [code](baekjoon/bronze/1259.py) | 문자열, 구현 |
 | [분해합](https://www.acmicpc.net/problem/2231)            | [code](baekjoon/bronze/2231.py) |   브루트포스 |
+| [벌집](https://www.acmicpc.net/problem/2292)              | [code](baekjoon/bronze/2292.py) |         수학 |
 
 ### Silver
 
