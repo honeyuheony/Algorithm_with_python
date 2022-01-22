@@ -93,6 +93,7 @@
 | [분해합](https://www.acmicpc.net/problem/2231)            | [code](baekjoon/bronze/2231.py) |       브루트포스 |
 | [벌집](https://www.acmicpc.net/problem/2292)              | [code](baekjoon/bronze/2292.py) |             수학 |
 | [블랙잭](https://www.acmicpc.net/problem/2798)            | [code](baekjoon/bronze/2798.py) | 조합, 브루트포스 |
+| [직각삼각형](https://www.acmicpc.net/problem/4153)        | [code](baekjoon/bronze/4153.py) |             수학 |
 
 ### Silver
 
