@@ -116,3 +116,4 @@
 | [괄호](https://www.acmicpc.net/problem/9012)                    | [code](baekjoon/silver/9012.py)  |             문자열, 스택 |
 | [나이순정렬](https://www.acmicpc.net/problem/10814)             | [code](baekjoon/silver/10814.py) |                     정렬 |
 | [숫자카드2](https://www.acmicpc.net/problem/10816)              | [code](baekjoon/silver/10816.py) | 정렬, 자료구조, 이진탐색 |
+| [스택](https://www.acmicpc.net/problem/10828)                   | [code](baekjoon/silver/10828.py) |           자료구조, 스택 |
