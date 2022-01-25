@@ -95,6 +95,7 @@
 | [블랙잭](https://www.acmicpc.net/problem/2798)            | [code](baekjoon/bronze/2798.py)  | 조합, 브루트포스 |
 | [직각삼각형](https://www.acmicpc.net/problem/4153)        | [code](baekjoon/bronze/4153.py)  |             수학 |
 | [ACM호텔](https://www.acmicpc.net/problem/10250)          | [code](baekjoon/bronze/10250.py) |             수학 |
+| [부녀회장이됥테야](https://www.acmicpc.net/problem/2775)  | [code](baekjoon/bronze/2775.py)  |             수학 |
 
 ### Silver
 
