@@ -86,16 +86,17 @@
 
 ### Bronze
 
-| 문제                                                      |               코드               |             풀이 |
-| --------------------------------------------------------- | :------------------------------: | ---------------: |
-| [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [code](baekjoon/bronze/1085.py)  |     수학, 기하학 |
-| [팰린드롬수](https://www.acmicpc.net/problem/1259)        | [code](baekjoon/bronze/1259.py)  |     문자열, 구현 |
-| [분해합](https://www.acmicpc.net/problem/2231)            | [code](baekjoon/bronze/2231.py)  |       브루트포스 |
-| [벌집](https://www.acmicpc.net/problem/2292)              | [code](baekjoon/bronze/2292.py)  |             수학 |
-| [블랙잭](https://www.acmicpc.net/problem/2798)            | [code](baekjoon/bronze/2798.py)  | 조합, 브루트포스 |
-| [직각삼각형](https://www.acmicpc.net/problem/4153)        | [code](baekjoon/bronze/4153.py)  |             수학 |
-| [ACM호텔](https://www.acmicpc.net/problem/10250)          | [code](baekjoon/bronze/10250.py) |             수학 |
-| [부녀회장이됥테야](https://www.acmicpc.net/problem/2775)  | [code](baekjoon/bronze/2775.py)  |             수학 |
+| 문제                                                           |               코드               |             풀이 |
+| -------------------------------------------------------------- | :------------------------------: | ---------------: |
+| [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)      | [code](baekjoon/bronze/1085.py)  |     수학, 기하학 |
+| [팰린드롬수](https://www.acmicpc.net/problem/1259)             | [code](baekjoon/bronze/1259.py)  |     문자열, 구현 |
+| [분해합](https://www.acmicpc.net/problem/2231)                 | [code](baekjoon/bronze/2231.py)  |       브루트포스 |
+| [벌집](https://www.acmicpc.net/problem/2292)                   | [code](baekjoon/bronze/2292.py)  |             수학 |
+| [블랙잭](https://www.acmicpc.net/problem/2798)                 | [code](baekjoon/bronze/2798.py)  | 조합, 브루트포스 |
+| [직각삼각형](https://www.acmicpc.net/problem/4153)             | [code](baekjoon/bronze/4153.py)  |             수학 |
+| [ACM호텔](https://www.acmicpc.net/problem/10250)               | [code](baekjoon/bronze/10250.py) |             수학 |
+| [부녀회장이됥테야](https://www.acmicpc.net/problem/2775)       | [code](baekjoon/bronze/2775.py)  |             수학 |
+| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [code](baekjoon/bronze/2869.py)  |             수학 |
 
 ### Silver
 
