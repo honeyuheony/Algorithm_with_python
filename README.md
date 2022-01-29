@@ -120,3 +120,4 @@
 | [숫자카드2](https://www.acmicpc.net/problem/10816)              | [code](baekjoon/silver/10816.py) | 정렬, 자료구조, 이진탐색 |
 | [스택](https://www.acmicpc.net/problem/10828)                   | [code](baekjoon/silver/10828.py) |           자료구조, 스택 |
 | [나무자르기](https://www.acmicpc.net/problem/2805)              | [code](baekjoon/silver/2805.py)  |                 이진탐색 |
+| [균형잡힌세상](https://www.acmicpc.net/problem/4949)            | [code](baekjoon/silver/4949.py)  |               문자열, 큐 |
