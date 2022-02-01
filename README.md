@@ -122,3 +122,4 @@
 | [나무자르기](https://www.acmicpc.net/problem/2805)              | [code](baekjoon/silver/2805.py)  |                 이진탐색 |
 | [균형잡힌세상](https://www.acmicpc.net/problem/4949)            | [code](baekjoon/silver/4949.py)  |               문자열, 큐 |
 | [덩치](https://www.acmicpc.net/problem/7568)                    | [code](baekjoon/silver/7568.py)  |               브루트포스 |
+| [제로](https://www.acmicpc.net/problem/10773)                   | [code](baekjoon/silver/10773.py) |                     스택 |
