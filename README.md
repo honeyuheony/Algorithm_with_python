@@ -98,6 +98,7 @@
 | [부녀회장이됥테야](https://www.acmicpc.net/problem/2775)       | [code](baekjoon/bronze/2775.py)  |             수학 |
 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [code](baekjoon/bronze/2869.py)  |             수학 |
 | [해싱](https://www.acmicpc.net/problem/15829)                  | [code](baekjoon/bronze/15829.py) |       수학, 해시 |
+| [이항계수1](https://www.acmicpc.net/problem/11050)             | [code](baekjoon/bronze/11050.py) |             수학 |
 
 ### Silver
 
