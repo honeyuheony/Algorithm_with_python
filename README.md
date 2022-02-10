@@ -125,3 +125,4 @@
 | [균형잡힌세상](https://www.acmicpc.net/problem/4949)            | [code](baekjoon/silver/4949.py)  |               문자열, 큐 |
 | [덩치](https://www.acmicpc.net/problem/7568)                    | [code](baekjoon/silver/7568.py)  |               브루트포스 |
 | [제로](https://www.acmicpc.net/problem/10773)                   | [code](baekjoon/silver/10773.py) |                     스택 |
+| [피보나치함수](https://www.acmicpc.net/problem/1003)            | [code](baekjoon/silver/1003.py)  |       다이나믹프로그래밍 |
