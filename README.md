@@ -126,4 +126,5 @@
 | [덩치](https://www.acmicpc.net/problem/7568)                    | [code](baekjoon/silver/7568.py)  |               브루트포스 |
 | [제로](https://www.acmicpc.net/problem/10773)                   | [code](baekjoon/silver/10773.py) |                     스택 |
 | [피보나치함수](https://www.acmicpc.net/problem/1003)            | [code](baekjoon/silver/1003.py)  |       다이나믹프로그래밍 |
-| [유기농배추]](https://www.acmicpc.net/problem/1003)             | [code](baekjoon/silver/1003.py)  |              그래프, dfs |
+| [유기농배추]](https://www.acmicpc.net/problem/1012)             | [code](baekjoon/silver/1012.py)  |              그래프, dfs |
+| [DFS와BFS]]](https://www.acmicpc.net/problem/1260)              | [code](baekjoon/silver/1260.py)  |         그래프, dfs, bfs |
