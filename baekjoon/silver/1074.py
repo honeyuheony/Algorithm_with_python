@@ -1,12 +1,10 @@
 # baekjoon s1 Z
 # https://www.acmicpc.net/problem/1074
 # 1. 자신의 위치가 몇 사분면인지 나열
-# 2. 위치를 찾을때까지 사분면 총 사각형 개수 * (자신의 사분면 / 4)
-# (pow(4, N) - 1) -
+# 2. 사분면 총 사각형 개수 * (자신의 사분면-1 / 4) 를 반복 계싼
+
 
 import sys
-
-from django.http import QueryDict
 input = sys.stdin.readline
 N, r, c = map(int, input().split())
 max = pow(2, N)
