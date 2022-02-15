@@ -128,3 +128,4 @@
 | [피보나치함수](https://www.acmicpc.net/problem/1003)            | [code](baekjoon/silver/1003.py)  |       다이나믹프로그래밍 |
 | [유기농배추]](https://www.acmicpc.net/problem/1012)             | [code](baekjoon/silver/1012.py)  |              그래프, dfs |
 | [DFS와BFS]]](https://www.acmicpc.net/problem/1260)              | [code](baekjoon/silver/1260.py)  |         그래프, dfs, bfs |
+| [Z]]](https://www.acmicpc.net/problem/1074)                     | [code](baekjoon/silver/1074.py)  |           분할정복, 재귀 |
