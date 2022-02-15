@@ -23,7 +23,6 @@ stack = deque()
 for i in sorted(graph[current]):
     stack.append(i)
 while stack and len(result) < N:
-    print(stack)
     current = stack.popleft()
     result.append(current)
     next_g = sorted([i for i in graph[current]
