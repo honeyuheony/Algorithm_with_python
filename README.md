@@ -131,3 +131,4 @@
 | [Z]]](https://www.acmicpc.net/problem/1074)                     | [code](baekjoon/silver/1074.py)  |           분할정복, 재귀 |
 | [*1로만들기]]](https://www.acmicpc.net/problem/1463)            | [code](baekjoon/silver/1463.py)  |       다이나믹프로그래밍 |
 | [*계단오르기]]](https://www.acmicpc.net/problem/2579)           | [code](baekjoon/silver/2579.py)  |       다이나믹프로그래밍 |
+| [바이러스]]](https://www.acmicpc.net/problem/2606)              | [code](baekjoon/silver/2606.py)  |     그래프탐색, dfs, bfs |
