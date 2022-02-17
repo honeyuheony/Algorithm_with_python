@@ -133,3 +133,4 @@
 | [*계단오르기]]](https://www.acmicpc.net/problem/2579)           | [code](baekjoon/silver/2579.py)  |       다이나믹프로그래밍 |
 | [바이러스]]](https://www.acmicpc.net/problem/2606)              | [code](baekjoon/silver/2606.py)  |     그래프탐색, dfs, bfs |
 | [비밀번호찾기]]]](https://www.acmicpc.net/problem/17219)        | [code](baekjoon/silver/17219.py) |                     해싱 |
+| [색종이만들기]]]](https://www.acmicpc.net/problem/2630)         | [code](baekjoon/silver/2630.py)  |           재귀, 분할정복 |
