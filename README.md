@@ -138,3 +138,4 @@
 | [파도반 수열](https://www.acmicpc.net/problem/9461)             | [code](baekjoon/silver/9461.py)  | 다이나믹프로그래밍, 수학 |
 | [최소힙](https://www.acmicpc.net/problem/1927)                  | [code](baekjoon/silver/1927.py)  |               힙, 최소힙 |
 | [!회의실배정](https://www.acmicpc.net/problem/1931)             | [code](baekjoon/silver/1931.py)  |           그리디알고리즘 |
+| [잃어버린괄호](https://www.acmicpc.net/problem/1541)            | [code](baekjoon/silver/1541.py)  |             수학, 그리디 |
