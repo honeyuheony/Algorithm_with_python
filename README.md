@@ -140,3 +140,4 @@
 | [!회의실배정](https://www.acmicpc.net/problem/1931)             | [code](baekjoon/silver/1931.py)  |           그리디알고리즘 |
 | [잃어버린괄호](https://www.acmicpc.net/problem/1541)            | [code](baekjoon/silver/1541.py)  |             수학, 그리디 |
 | [케빈베이컨의6단계법칙]](https://www.acmicpc.net/problem/1389)  | [code](baekjoon/silver/1389.py)  |              그래프, BFS |
+| [팩토리얼0의개수]](https://www.acmicpc.net/problem/1676)        | [code](baekjoon/silver/1676.py)  |               수학, 구현 |
