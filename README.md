@@ -146,3 +146,4 @@
 | [포켓몬마스터 이다솜](https://www.acmicpc.net/problem/1620)     | [code](baekjoon/silver/1620.py)  |                     해싱 |
 | [종이의개수](https://www.acmicpc.net/problem/1780)              | [code](baekjoon/silver/1780.py)  |           재귀, 분할정복 |
 | [최대힙](https://www.acmicpc.net/problem/11279)                 | [code](baekjoon/silver/11279.py) |           힙, 우선순위큐 |
+| [집합](https://www.acmicpc.net/problem/11723)                   | [code](baekjoon/silver/11723.py) |         집합, 비트마스킹 |
