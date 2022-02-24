@@ -144,3 +144,4 @@
 | [듣보잡]](https://www.acmicpc.net/problem/1764)                 | [code](baekjoon/silver/1764.py)  |       문자열, 집합, 정렬 |
 | [!패션왕 신해빈](https://www.acmicpc.net/problem/9375)          | [code](baekjoon/silver/9375.py)  |               수학, 집합 |
 | [포켓몬마스터 이다솜](https://www.acmicpc.net/problem/1620)     | [code](baekjoon/silver/1620.py)  |                     해싱 |
+| [종이의개수](https://www.acmicpc.net/problem/1780)              | [code](baekjoon/silver/1780.py)  |           재귀, 분할정복 |
