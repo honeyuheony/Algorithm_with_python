@@ -142,4 +142,5 @@
 | [케빈베이컨의6단계법칙]](https://www.acmicpc.net/problem/1389)  | [code](baekjoon/silver/1389.py)  |              그래프, BFS |
 | [팩토리얼0의개수]](https://www.acmicpc.net/problem/1676)        | [code](baekjoon/silver/1676.py)  |               수학, 구현 |
 | [듣보잡]](https://www.acmicpc.net/problem/1764)                 | [code](baekjoon/silver/1764.py)  |       문자열, 집합, 정렬 |
-| [패션왕 신해빈](https://www.acmicpc.net/problem/9375)           | [code](baekjoon/silver/9375.py)  |               수학, 집합 |
+| [!패션왕 신해빈](https://www.acmicpc.net/problem/9375)          | [code](baekjoon/silver/9375.py)  |               수학, 집합 |
+| [포켓몬마스터 이다솜](https://www.acmicpc.net/problem/1620)     | [code](baekjoon/silver/1620.py)  |                     해싱 |
