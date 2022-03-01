@@ -150,3 +150,4 @@
 | [ATM](https://www.acmicpc.net/problem/11399)                    | [code](baekjoon/silver/11399.py) |             그리디, 정렬 |
 | [2xn 타일링](https://www.acmicpc.net/problem/11726)             | [code](baekjoon/silver/11726.py) |                       DP |
 | [!연결 요소의 개수](https://www.acmicpc.net/problem/11724)      | [code](baekjoon/silver/11724.py) |                      DFS |
+| [좌표압축](https://www.acmicpc.net/problem/18870)               | [code](baekjoon/silver/18870.py) |                     정렬 |
