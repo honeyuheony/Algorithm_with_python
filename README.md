@@ -152,3 +152,9 @@
 | [!연결 요소의 개수](https://www.acmicpc.net/problem/11724)      | [code](baekjoon/silver/11724.py) |                      DFS |
 | [좌표압축](https://www.acmicpc.net/problem/18870)               | [code](baekjoon/silver/18870.py) |                     정렬 |
 | [숨바꼭질](https://www.acmicpc.net/problem/1697)                | [code](baekjoon/silver/1697.py)  |                      BFS |
+
+### Gold
+
+| 문제                                                     |              코드               |           풀이 |
+| -------------------------------------------------------- | :-----------------------------: | -------------: |
+| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [code](baekjoon/silver/7662.py) | 힙, 우선순위큐 |
