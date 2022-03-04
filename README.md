@@ -152,6 +152,7 @@
 | [!연결 요소의 개수](https://www.acmicpc.net/problem/11724)      | [code](baekjoon/silver/11724.py) |                      DFS |
 | [좌표압축](https://www.acmicpc.net/problem/18870)               | [code](baekjoon/silver/18870.py) |                     정렬 |
 | [숨바꼭질](https://www.acmicpc.net/problem/1697)                | [code](baekjoon/silver/1697.py)  |                      BFS |
+| [Four Squares](https://www.acmicpc.net/problem/17626)           | [code](baekjoon/silver/17626.py) |           DP, 브루트포스 |
 
 ### Gold
 
