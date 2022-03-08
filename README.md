@@ -155,6 +155,7 @@
 | [Four Squares](https://www.acmicpc.net/problem/17626)           | [code](baekjoon/silver/17626.py) |           DP, 브루트포스 |
 | [RGB거리](https://www.acmicpc.net/problem/1149)                 | [code](baekjoon/silver/1149.py)  |                       DP |
 | [정수 삼각형](https://www.acmicpc.net/problem/1932)             | [code](baekjoon/silver/1932.py)  |                       DP |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667)          | [code](baekjoon/silver/2667.py)  |                 DFS, BFS |
 
 ### Gold
 
