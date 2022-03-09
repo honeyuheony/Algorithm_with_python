@@ -164,3 +164,4 @@
 | -------------------------------------------------------- | :---------------------------: | -------------: |
 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [code](baekjoon/gold/7662.py) | 힙, 우선순위큐 |
 | [토마토](https://www.acmicpc.net/problem/7576)           | [code](baekjoon/gold/7576.py) |            BFS |
+| [리모컨](https://www.acmicpc.net/problem/1107)           | [code](baekjoon/gold/1107.py) |     브루트포스 |
