@@ -158,6 +158,7 @@
 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)          | [code](baekjoon/silver/2667.py)  |                 DFS, BFS |
 | [쿼드트리](https://www.acmicpc.net/problem/1992)                | [code](baekjoon/silver/1992.py)  |           분할정복, 재귀 |
 | [미로 탐색](https://www.acmicpc.net/problem/2178)               | [code](baekjoon/silver/2178.py)  |                      BFS |
+| [동전 0](https://www.acmicpc.net/problem/11047)                 | [code](baekjoon/silver/11047.py) |                   그리디 |
 
 ### Gold
 
