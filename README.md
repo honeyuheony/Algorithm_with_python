@@ -159,6 +159,7 @@
 | [쿼드트리](https://www.acmicpc.net/problem/1992)                | [code](baekjoon/silver/1992.py)  |           분할정복, 재귀 |
 | [미로 탐색](https://www.acmicpc.net/problem/2178)               | [code](baekjoon/silver/2178.py)  |                      BFS |
 | [동전 0](https://www.acmicpc.net/problem/11047)                 | [code](baekjoon/silver/11047.py) |                   그리디 |
+| [카잉당력](https://www.acmicpc.net/problem/6064)                | [code](baekjoon/silver/6064.py)  |             수학, 정수론 |
 
 ### Gold
 
