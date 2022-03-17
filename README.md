@@ -161,6 +161,7 @@
 | [동전 0](https://www.acmicpc.net/problem/11047)                 | [code](baekjoon/silver/11047.py) |                   그리디 |
 | [카잉당력](https://www.acmicpc.net/problem/6064)                | [code](baekjoon/silver/6064.py)  |             수학, 정수론 |
 | [IOIOI](https://www.acmicpc.net/problem/5525)                   | [code](baekjoon/silver/5525.py)  |                   문자열 |
+| [절댓값힙](https://www.acmicpc.net/problem/11286)               | [code](baekjoon/silver/11286.py) |                   문자열 |
 
 ### Gold
 
