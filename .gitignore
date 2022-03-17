@@ -149,3 +149,4 @@ dmypy.json
 .pyre//
 
 test_*/
+/test*
