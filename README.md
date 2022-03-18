@@ -165,6 +165,7 @@
 | [절댓값힙](https://www.acmicpc.net/problem/11286)               | [code](baekjoon/silver/11286.py) |           힙, 우선순위큐 |
 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)       | [code](baekjoon/silver/11659.py) |                   부분합 |
 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)           | [code](baekjoon/silver/11727.py) |                       DP |
+| [01타일](https://www.acmicpc.net/problem/1904)                  | [code](baekjoon/silver/1904.py)  |                       DP |
 
 ### Gold
 
