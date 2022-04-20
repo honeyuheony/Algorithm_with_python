@@ -99,6 +99,7 @@
 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [code](baekjoon/bronze/2869.py)  |             수학 |
 | [해싱](https://www.acmicpc.net/problem/15829)                  | [code](baekjoon/bronze/15829.py) |       수학, 해시 |
 | [이항계수1](https://www.acmicpc.net/problem/11050)             | [code](baekjoon/bronze/11050.py) |             수학 |
+| [수 정렬하기](https://www.acmicpc.net/problem/2750)            | [code](baekjoon/bronze/2750.py)  |             정렬 |
 
 ### Silver
 
