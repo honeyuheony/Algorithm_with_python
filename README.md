@@ -129,7 +129,7 @@
 | [피보나치함수](https://www.acmicpc.net/problem/1003)            | [code](baekjoon/silver/1003.py)  |       다이나믹프로그래밍 |
 | [유기농배추](https://www.acmicpc.net/problem/1012)              | [code](baekjoon/silver/1012.py)  |              그래프, dfs |
 | [DFS와BFS](https://www.acmicpc.net/problem/1260)                | [code](baekjoon/silver/1260.py)  |         그래프, dfs, bfs |
-| [Z]](https://www.acmicpc.net/problem/1074)                      | [code](baekjoon/silver/1074.py)  |           분할정복, 재귀 |
+| [Z](https://www.acmicpc.net/problem/1074)                       | [code](baekjoon/silver/1074.py)  |           분할정복, 재귀 |
 | [!1로만들기](https://www.acmicpc.net/problem/1463)              | [code](baekjoon/silver/1463.py)  |       다이나믹프로그래밍 |
 | [!계단오르기](https://www.acmicpc.net/problem/2579)             | [code](baekjoon/silver/2579.py)  |       다이나믹프로그래밍 |
 | [바이러스](https://www.acmicpc.net/problem/2606)                | [code](baekjoon/silver/2606.py)  |     그래프탐색, dfs, bfs |
@@ -167,6 +167,8 @@
 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)       | [code](baekjoon/silver/11659.py) |                   부분합 |
 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)           | [code](baekjoon/silver/11727.py) |                       DP |
 | [01타일](https://www.acmicpc.net/problem/1904)                  | [code](baekjoon/silver/1904.py)  |                       DP |
+| [수 정렬하기3](https://www.acmicpc.net/problem/10989)           | [code](baekjoon/silver/10989.py) |                     정렬 |
+| [숫자카드](https://www.acmicpc.net/problem/10815)               | [code](baekjoon/silver/10815.py) |                 이분탐색 |
 
 ### Gold
 
