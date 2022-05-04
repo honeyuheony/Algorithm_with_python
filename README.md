@@ -170,6 +170,7 @@
 | [수 정렬하기3](https://www.acmicpc.net/problem/10989)           | [code](baekjoon/silver/10989.py) |                     정렬 |
 | [숫자카드](https://www.acmicpc.net/problem/10815)               | [code](baekjoon/silver/10815.py) |                 이분탐색 |
 | [에디터](https://www.acmicpc.net/problem/1406)                  | [code](baekjoon/silver/1406.py)  |         문자열, 스택, 큐 |
+| [보물](https://www.acmicpc.net/problem/1026)                    | [code](baekjoon/silver/1026.py)  |             정렬, 그리디 |
 
 ### Gold
 
