@@ -179,9 +179,10 @@
 
 ### Gold
 
-| 문제                                                     |             코드              |             풀이 |
-| -------------------------------------------------------- | :---------------------------: | ---------------: |
-| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [code](baekjoon/gold/7662.py) |   힙, 우선순위큐 |
-| [토마토](https://www.acmicpc.net/problem/7576)           | [code](baekjoon/gold/7576.py) |              BFS |
-| [리모컨](https://www.acmicpc.net/problem/1107)           | [code](baekjoon/gold/1107.py) |       브루트포스 |
-| [AC](https://www.acmicpc.net/problem/5430)               | [code](baekjoon/gold/5430.py) | 구현, 문자열, 덱 |
+| 문제                                                     |             코드              |                 풀이 |
+| -------------------------------------------------------- | :---------------------------: | -------------------: |
+| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [code](baekjoon/gold/7662.py) |       힙, 우선순위큐 |
+| [토마토](https://www.acmicpc.net/problem/7576)           | [code](baekjoon/gold/7576.py) |                  BFS |
+| [리모컨](https://www.acmicpc.net/problem/1107)           | [code](baekjoon/gold/1107.py) |           브루트포스 |
+| [AC](https://www.acmicpc.net/problem/5430)               | [code](baekjoon/gold/5430.py) |     구현, 문자열, 덱 |
+| [N-Queen](https://www.acmicpc.net/problem/9663)          | [code](baekjoon/gold/9663.py) | 브루트포스, 백트래킹 |
