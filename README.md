@@ -175,6 +175,7 @@
 | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)     | [code](baekjoon/silver/10867.py) |                     정렬 |
 | [요세우스 문제](https://www.acmicpc.net/problem/1158)           | [code](baekjoon/silver/1158.py)  |                       큐 |
 | [로또](https://www.acmicpc.net/problem/6603)                    | [code](baekjoon/silver/6603.py)  |                     조합 |
+| [부분수열의 합](https://www.acmicpc.net/problem/1182)           | [code](baekjoon/silver/1182.py)  |                     조합 |
 
 ### Gold
 
