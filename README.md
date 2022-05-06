@@ -76,6 +76,7 @@
 | [짝지어 계산하기](https://programmers.co.kr/learn/courses/30/lessons/12973)      | [code](programmers/lv2/12973.py) |           스택 |
 | [행렬 태두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [code](programmers/lv2/77485.py) |     스택, 구현 |
 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)          | [code](programmers/lv2/72411.py) |           조합 |
+| [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)             | [code](programmers/lv2/60058.py) |   문자열, 스택 |
 
 ### Level3
 
