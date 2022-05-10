@@ -1,4 +1,10 @@
 from collections import deque
+# 자료구조: array, linked list, stack, queue, deque,
+# tree, graph, BST, heap, hash table (r-b tree, trie 몰라도 됨)
+
+# 알고리즘: big-O, sorting, brute force, recursion, iteration, binary search
+# BFS/DFS, backtracking, divide and conquer, bit manipulation, two pointers, sliding window
+# dynamic programming (topological sort, union-find, KMP 몰라도 됨)
 
 # 트리
 
