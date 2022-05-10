@@ -190,3 +190,11 @@
 | [리모컨](https://www.acmicpc.net/problem/1107)           | [code](baekjoon/gold/1107.py) |           브루트포스 |
 | [AC](https://www.acmicpc.net/problem/5430)               | [code](baekjoon/gold/5430.py) |     구현, 문자열, 덱 |
 | [N-Queen](https://www.acmicpc.net/problem/9663)          | [code](baekjoon/gold/9663.py) | 브루트포스, 백트래킹 |
+
+## Leetcode
+
+### Easy
+
+| 문제                                                            |             코드              | 풀이 |
+| --------------------------------------------------------------- | :---------------------------: | ---: |
+| [Height Checker](https://leetcode.com/problems/height-checker/) | [code](leetcode/easy/1051.py) | 정렬 |
