@@ -195,7 +195,8 @@
 
 ### Easy
 
-| 문제                                                                  |             코드              |  풀이 |
-| --------------------------------------------------------------------- | :---------------------------: | ----: |
-| [Height Checker](https://leetcode.com/problems/height-checker/)       | [code](leetcode/easy/1051.py) |  정렬 |
-| [Shuffle the Array](https://leetcode.com/problems/Shuffle-the-Array/) | [code](leetcode/easy/1470.py) | Array |
+| 문제                                                                  |             코드              |                               풀이 |
+| --------------------------------------------------------------------- | :---------------------------: | ---------------------------------: |
+| [Height Checker](https://leetcode.com/problems/height-checker/)       | [code](leetcode/easy/1051.py) |                               정렬 |
+| [Shuffle the Array](https://leetcode.com/problems/Shuffle-the-Array/) | [code](leetcode/easy/1470.py) |                              Array |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)         | [code](leetcode/easy/242.py)  | 해시테이블(딕셔너리), 문자열, 정렬 |
