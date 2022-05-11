@@ -195,6 +195,7 @@
 
 ### Easy
 
-| 문제                                                            |             코드              | 풀이 |
-| --------------------------------------------------------------- | :---------------------------: | ---: |
-| [Height Checker](https://leetcode.com/problems/height-checker/) | [code](leetcode/easy/1051.py) | 정렬 |
+| 문제                                                                  |             코드              |  풀이 |
+| --------------------------------------------------------------------- | :---------------------------: | ----: |
+| [Height Checker](https://leetcode.com/problems/height-checker/)       | [code](leetcode/easy/1051.py) |  정렬 |
+| [Shuffle the Array](https://leetcode.com/problems/Shuffle-the-Array/) | [code](leetcode/easy/1470.py) | Array |
