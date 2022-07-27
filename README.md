@@ -192,6 +192,7 @@
 | [N-Queen](https://www.acmicpc.net/problem/9663)          | [code](baekjoon/gold/9663.py)  |     브루트포스, 백트래킹 |
 | [연료 채우기](https://www.acmicpc.net/problem/1826)      | [code](baekjoon/gold/1826.py)  | 그리디, 우선순위큐, 정렬 |
 | [적록색약](https://www.acmicpc.net/problem/10026)        | [code](baekjoon/gold/10026.py) |         그래프, dfs, bfs |
+| [테트로미노](https://www.acmicpc.net/problem/14500)      | [code](baekjoon/gold/14500.py) |         구현, 브루트포스 |
 
 ## Leetcode
 
@@ -202,3 +203,9 @@
 | [Height Checker](https://leetcode.com/problems/height-checker/)       | [code](leetcode/easy/1051.py) |                               정렬 |
 | [Shuffle the Array](https://leetcode.com/problems/Shuffle-the-Array/) | [code](leetcode/easy/1470.py) |                              Array |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)         | [code](leetcode/easy/242.py)  | 해시테이블(딕셔너리), 문자열, 정렬 |
+
+### Medium
+
+| 문제                                                                                   |             코드             |                       풀이 |
+| -------------------------------------------------------------------------------------- | :--------------------------: | -------------------------: |
+| [Height Checker](https://leetcode.com/longest-substring-without-repeating-characters/) | [code](leetcode/medium/3.py) | hash table, Sliding window |
