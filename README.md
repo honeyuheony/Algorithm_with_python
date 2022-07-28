@@ -78,6 +78,7 @@
 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)          | [code](programmers/lv2/72411.py) |           조합 |
 | [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)             | [code](programmers/lv2/60058.py) |   문자열, 스택 |
 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)    | [code](programmers/lv2/81302.py) |      재귀, bfs |
+| [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)      | [code](programmers/lv2/17677.py) |           집합 |
 
 ### Level3
 
