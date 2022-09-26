@@ -197,6 +197,7 @@
 | [연료 채우기](https://www.acmicpc.net/problem/1826)      | [code](baekjoon/gold/1826.py)  | 그리디, 우선순위큐, 정렬 |
 | [적록색약](https://www.acmicpc.net/problem/10026)        | [code](baekjoon/gold/10026.py) |         그래프, dfs, bfs |
 | [테트로미노](https://www.acmicpc.net/problem/14500)      | [code](baekjoon/gold/14500.py) |         구현, 브루트포스 |
+| [DSLR](https://www.acmicpc.net/problem/9019)             | [code](baekjoon/gold/9019.py)  |                      BFS |
 
 ## Leetcode
 
