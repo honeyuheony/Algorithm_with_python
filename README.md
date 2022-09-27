@@ -184,6 +184,7 @@
 | [로또](https://www.acmicpc.net/problem/6603)                    | [code](baekjoon/silver/6603.py)  |                     조합 |
 | [부분수열의 합](https://www.acmicpc.net/problem/1182)           | [code](baekjoon/silver/1182.py)  |                     조합 |
 | [약수](https://www.acmicpc.net/problem/1037)                    | [code](baekjoon/silver/1037.py)  |                   정수론 |
+| [요세우스 문제 0](https://www.acmicpc.net/problem/11866)        | [code](baekjoon/silver/11866.py) |             문자열, 스택 |
 
 ### Gold
 
