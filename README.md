@@ -200,6 +200,7 @@
 | [테트로미노](https://www.acmicpc.net/problem/14500)      | [code](baekjoon/gold/14500.py) |         구현, 브루트포스 |
 | [DSLR](https://www.acmicpc.net/problem/9019)             | [code](baekjoon/gold/9019.py)  |                      BFS |
 | [토마토2](https://www.acmicpc.net/problem/7569)          | [code](baekjoon/gold/7569.py)  |                      BFS |
+| [아기상어](https://www.acmicpc.net/problem/16236)        | [code](baekjoon/gold/16236.py) |                      BFS |
 
 ## Leetcode
 
