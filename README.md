@@ -84,6 +84,7 @@
 | [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | [code](programmers/lv2/92335.py) | 투포인터, 수학 |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)            | [code](programmers/lv2/12939.py) |   문자열, 정렬 |
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)    | [code](programmers/lv2/12951.py) |         문자열 |
+| [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)              | [code](programmers/lv2/12941.py) |           정렬 |
 
 ### Level3
 
