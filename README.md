@@ -88,6 +88,7 @@
 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)         | [code](programmers/lv2/70129.py) |         문자열 |
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                | [code](programmers/lv2/12909.py) |       스택, 큐 |
 | [숫자의 조건](https://programmers.co.kr/learn/courses/30/lessons/12924)                | [code](programmers/lv2/12924.py) |       투포인터 |
+| [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                  | [code](programmers/lv2/12914.py) |             DP |
 
 ### Level3
 
