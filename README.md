@@ -86,6 +86,7 @@
 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)    | [code](programmers/lv2/12951.py) |         문자열 |
 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)              | [code](programmers/lv2/12941.py) |           정렬 |
 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)         | [code](programmers/lv2/70129.py) |         문자열 |
+| [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                | [code](programmers/lv2/12909.py) |       스택, 큐 |
 
 ### Level3
 
