@@ -65,33 +65,34 @@
 
 ### Level2
 
-| 문제                                                                                   |               코드               |           분류 |
-| -------------------------------------------------------------------------------------- | :------------------------------: | -------------: |
-| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                 | [code](programmers/lv2/60057.py) |   문자열, 구현 |
-| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)                 | [code](programmers/lv2/42888.py) |   문자열, 구현 |
-| [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/60248)               | [code](programmers/lv2/60248.py) | 수학(답보고품) |
-| [124나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)             | [code](programmers/lv2/12899.py) |           수학 |
-| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)                   | [code](programmers/lv2/42586.py) |           수학 |
-| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42646)                    | [code](programmers/lv2/42646.py) |             힙 |
-| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                  | [code](programmers/lv2/43165.py) |            DFS |
-| [짝지어 계산하기](https://programmers.co.kr/learn/courses/30/lessons/12973)            | [code](programmers/lv2/12973.py) |           스택 |
-| [행렬 태두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)       | [code](programmers/lv2/77485.py) |     스택, 구현 |
-| [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                | [code](programmers/lv2/72411.py) |           조합 |
-| [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)                   | [code](programmers/lv2/60058.py) |   문자열, 스택 |
-| [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)          | [code](programmers/lv2/81302.py) |      재귀, bfs |
-| [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)            | [code](programmers/lv2/17677.py) |           집합 |
-| [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)                | [code](programmers/lv2/67257.py) |   순열, 문자열 |
-| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | [code](programmers/lv2/92335.py) | 투포인터, 수학 |
-| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)            | [code](programmers/lv2/12939.py) |   문자열, 정렬 |
-| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)    | [code](programmers/lv2/12951.py) |         문자열 |
-| [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)              | [code](programmers/lv2/12941.py) |           정렬 |
-| [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)         | [code](programmers/lv2/70129.py) |         문자열 |
-| [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                | [code](programmers/lv2/12909.py) |       스택, 큐 |
-| [숫자의 조건](https://programmers.co.kr/learn/courses/30/lessons/12924)                | [code](programmers/lv2/12924.py) |       투포인터 |
-| [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                  | [code](programmers/lv2/12914.py) |             DP |
-| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)               | [code](programmers/lv2/12911.py) |   문자열, 수학 |
-| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                       | [code](programmers/lv2/42842.py) | 완전탐색, 수학 |
-| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)              | [code](programmers/lv2/12981.py) |         문자열 |
+| 문제                                                                                   |               코드               |             분류 |
+| -------------------------------------------------------------------------------------- | :------------------------------: | ---------------: |
+| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                 | [code](programmers/lv2/60057.py) |     문자열, 구현 |
+| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)                 | [code](programmers/lv2/42888.py) |     문자열, 구현 |
+| [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/60248)               | [code](programmers/lv2/60248.py) |   수학(답보고품) |
+| [124나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)             | [code](programmers/lv2/12899.py) |             수학 |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)                   | [code](programmers/lv2/42586.py) |             수학 |
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42646)                    | [code](programmers/lv2/42646.py) |               힙 |
+| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                  | [code](programmers/lv2/43165.py) |              DFS |
+| [짝지어 계산하기](https://programmers.co.kr/learn/courses/30/lessons/12973)            | [code](programmers/lv2/12973.py) |             스택 |
+| [행렬 태두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)       | [code](programmers/lv2/77485.py) |       스택, 구현 |
+| [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                | [code](programmers/lv2/72411.py) |             조합 |
+| [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)                   | [code](programmers/lv2/60058.py) |     문자열, 스택 |
+| [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)          | [code](programmers/lv2/81302.py) |        재귀, bfs |
+| [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)            | [code](programmers/lv2/17677.py) |             집합 |
+| [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)                | [code](programmers/lv2/67257.py) |     순열, 문자열 |
+| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | [code](programmers/lv2/92335.py) |   투포인터, 수학 |
+| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)            | [code](programmers/lv2/12939.py) |     문자열, 정렬 |
+| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)    | [code](programmers/lv2/12951.py) |           문자열 |
+| [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)              | [code](programmers/lv2/12941.py) |             정렬 |
+| [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)         | [code](programmers/lv2/70129.py) |           문자열 |
+| [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                | [code](programmers/lv2/12909.py) |         스택, 큐 |
+| [숫자의 조건](https://programmers.co.kr/learn/courses/30/lessons/12924)                | [code](programmers/lv2/12924.py) |         투포인터 |
+| [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                  | [code](programmers/lv2/12914.py) |               DP |
+| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)               | [code](programmers/lv2/12911.py) |     문자열, 수학 |
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                       | [code](programmers/lv2/42842.py) |   완전탐색, 수학 |
+| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)              | [code](programmers/lv2/12981.py) |           문자열 |
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                   | [code](programmers/lv2/42885.py) | 그리디, 투포인터 |
 
 ### Level3
 
