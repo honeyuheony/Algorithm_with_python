@@ -89,6 +89,7 @@
 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                | [code](programmers/lv2/12909.py) |       스택, 큐 |
 | [숫자의 조건](https://programmers.co.kr/learn/courses/30/lessons/12924)                | [code](programmers/lv2/12924.py) |       투포인터 |
 | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                  | [code](programmers/lv2/12914.py) |             DP |
+| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)               | [code](programmers/lv2/12911.py) |   문자열, 수학 |
 
 ### Level3
 
