@@ -91,6 +91,7 @@
 | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                  | [code](programmers/lv2/12914.py) |             DP |
 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)               | [code](programmers/lv2/12911.py) |   문자열, 수학 |
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                       | [code](programmers/lv2/42842.py) | 완전탐색, 수학 |
+| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)              | [code](programmers/lv2/12981.py) |         문자열 |
 
 ### Level3
 
