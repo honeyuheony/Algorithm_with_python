@@ -43,11 +43,11 @@ def get_problem_info(problemId):
 
 def updateAll():
     file_list = listdir(
-        "C:/Users/kuhy/kuhy/Self-Develop/Algorithm_with_python/baekjoon")
+        "./baekjoon")
     file_list = list(map(lambda x: x.replace('.py', ''), file_list))
     file_list.sort(key=lambda x: int(x))
 
-    f = open('C:/Users/kuhy/kuhy/Self-Develop/Algorithm_with_python/README.md',
+    f = open('./README.md',
              'w', encoding='utf8')
     f.write(README_HEADER)
     for problemId in file_list:
