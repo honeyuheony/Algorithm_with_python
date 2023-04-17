@@ -15,7 +15,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        python-version: ["3.10"]
+        python-version: ["3.8"]
 
     steps:
       - uses: actions/checkout@v3
@@ -23,7 +23,6 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version: ${{ matrix.python-version }}
-      - name: Install dependencies
       - name: Update readMe.md
         run: |
           python autoUpload.py
