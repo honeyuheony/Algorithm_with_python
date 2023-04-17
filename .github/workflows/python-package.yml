@@ -32,10 +32,10 @@ jobs:
           python autoUpload.py
       - name: Commit changes
         run: |
-        git config --global user.name 'Kuhy'
-        git config --global user.email 'kwh1019_@naver.com'
-        git add -A
-        git commit -am "auto-update README.md" # 커밋 메시지
+          git config --global user.name 'Kuhy'
+          git config --global user.email 'kwh1019_@naver.com'
+          git add -A
+          git commit -am "auto-update README.md" # 커밋 메시지
       - name: Push changes
-        run: |
-        git push
+          run: |
+          git push
