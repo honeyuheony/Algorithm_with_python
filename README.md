@@ -1,230 +1,104 @@
-# 파이썬 알고리즘 문제풀이
-
-코딩테스트 대비 파이썬 알고리즘 연습문제 풀이입니다.
-
-## 프로그래머스(programmers.co.kr)
-
-### Level1
-
-| 문제                                                                                     |               코드                | 분류 |
-| ---------------------------------------------------------------------------------------- | :-------------------------------: | ---: |
-| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)                       | [code](programmers/lv1/12901.py)  |      |
-| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)         | [code](programmers/lv1/12903.py)  |      |
-| [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)             | [code](programmers/lv1/12906.py)  |      |
-| [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)    | [code](programmers/lv1/12910.py)  |      |
-| [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)            | [code](programmers/lv1/129012.py) |      |
-| [내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)         | [code](programmers/lv1/12915.py)  |      |
-| [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)       | [code](programmers/lv1/12916.py)  |      |
-| [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [code](programmers/lv1/12917.py)  |      |
-| [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)           | [code](programmers/lv1/12918.py)  |      |
-| [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)         | [code](programmers/lv1/12919.py)  |      |
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)                    | [code](programmers/lv1/12921.py)  |      |
-| [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)      | [code](programmers/lv1/12922.py)  |      |
-| [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)       | [code](programmers/lv1/12925.py)  |      |
-| [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)                    | [code](programmers/lv1/12926.py)  |      |
-| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)                    | [code](programmers/lv1/12928.py)  |      |
-| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)           | [code](programmers/lv1/12930.py)  |      |
-| [자릿수더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)                 | [code](programmers/lv1/12931.py)  |      |
-| [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)  | [code](programmers/lv1/12932.py)  |      |
-| [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)   | [code](programmers/lv1/12933.py)  |      |
-| [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)             | [code](programmers/lv1/12934.py)  |      |
-| [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)        | [code](programmers/lv1/12935.py)  |      |
-| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                  | [code](programmers/lv1/12937.py)  |      |
-| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)                  | [code](programmers/lv1/12943.py)  |      |
-| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)                  | [code](programmers/lv1/12944.py)  |      |
-| [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)                    | [code](programmers/lv1/12947.py)  |      |
-| [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)           | [code](programmers/lv1/12948.py)  |      |
-| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)                  | [code](programmers/lv1/12950.py)  |      |
-| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [code](programmers/lv1/12954.py)  |      |
-| [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)              | [code](programmers/lv1/12969.py)  |      |
-| [소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)                   | [code](programmers/lv1/12977.py)  |      |
-| [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)                         | [code](programmers/lv1/12982.py)  |      |
-| [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)                     | [code](programmers/lv1/17681.py)  |      |
-| [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)                     | [code](programmers/lv1/17682.py)  |      |
-| [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                        |  [code](programmers/lv1/1845.py)  |      |
-| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42578)           | [code](programmers/lv1/42578.py)  |      |
-| [k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)                     | [code](programmers/lv1/42748.py)  |      |
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)                     | [code](programmers/lv1/42840.py)  |      |
-| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                       | [code](programmers/lv1/42862.py)  |      |
-| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)                       | [code](programmers/lv1/42889.py)  |      |
-| [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)         | [code](programmers/lv1/64061.py)  |      |
-| [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)                | [code](programmers/lv1/67256.py)  |      |
-| [두개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)           | [code](programmers/lv1/68644.py)  |      |
-| [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)                 | [code](programmers/lv1/68935.py)  |      |
-| [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)                         | [code](programmers/lv1/70128.py)  |      |
-| [신규아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)              | [code](programmers/lv1/72410.py)  |      |
-| [음양더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                   | [code](programmers/lv1/76501.py)  |      |
-| [로또의 최고순위와 최저순위](https://programmers.co.kr/learn/courses/30/lessons/77484)   | [code](programmers/lv1/77484.py)  |      |
-| [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)           | [code](programmers/lv1/77884.py)  |      |
-| [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81031)         | [code](programmers/lv1/81031.py)  |      |
-| [부족한 돈 채우기](https://programmers.co.kr/learn/courses/30/lessons/82612)             | [code](programmers/lv1/82612.py)  |      |
-| [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [code](programmers/lv1/86051.py)  |      |
-| [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)                 | [code](programmers/lv1/86491.py)  |      |
-| [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)    | [code](programmers/lv1/87389.py)  |      |
-| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [code](programmers/lv1/92334.py)  |      |
-
-### Level2
-
-| 문제                                                                                   |               코드               |             분류 |
-| -------------------------------------------------------------------------------------- | :------------------------------: | ---------------: |
-| [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                 | [code](programmers/lv2/60057.py) |     문자열, 구현 |
-| [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)                 | [code](programmers/lv2/42888.py) |     문자열, 구현 |
-| [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/60248)               | [code](programmers/lv2/60248.py) |   수학(답보고품) |
-| [124나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)             | [code](programmers/lv2/12899.py) |             수학 |
-| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)                   | [code](programmers/lv2/42586.py) |             수학 |
-| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42646)                    | [code](programmers/lv2/42646.py) |               힙 |
-| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                  | [code](programmers/lv2/43165.py) |              DFS |
-| [짝지어 계산하기](https://programmers.co.kr/learn/courses/30/lessons/12973)            | [code](programmers/lv2/12973.py) |             스택 |
-| [행렬 태두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)       | [code](programmers/lv2/77485.py) |       스택, 구현 |
-| [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)                | [code](programmers/lv2/72411.py) |             조합 |
-| [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)                   | [code](programmers/lv2/60058.py) |     문자열, 스택 |
-| [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)          | [code](programmers/lv2/81302.py) |        재귀, bfs |
-| [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)            | [code](programmers/lv2/17677.py) |             집합 |
-| [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)                | [code](programmers/lv2/67257.py) |     순열, 문자열 |
-| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | [code](programmers/lv2/92335.py) |   투포인터, 수학 |
-| [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)            | [code](programmers/lv2/12939.py) |     문자열, 정렬 |
-| [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)    | [code](programmers/lv2/12951.py) |           문자열 |
-| [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)              | [code](programmers/lv2/12941.py) |             정렬 |
-| [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)         | [code](programmers/lv2/70129.py) |           문자열 |
-| [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                | [code](programmers/lv2/12909.py) |         스택, 큐 |
-| [숫자의 조건](https://programmers.co.kr/learn/courses/30/lessons/12924)                | [code](programmers/lv2/12924.py) |         투포인터 |
-| [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                  | [code](programmers/lv2/12914.py) |               DP |
-| [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)               | [code](programmers/lv2/12911.py) |     문자열, 수학 |
-| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                       | [code](programmers/lv2/42842.py) |   완전탐색, 수학 |
-| [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)              | [code](programmers/lv2/12981.py) |           문자열 |
-| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                   | [code](programmers/lv2/42885.py) | 그리디, 투포인터 |
-
-### Level3
-
-| 문제                                                                |               코드               |             풀이 |
-| ------------------------------------------------------------------- | :------------------------------: | ---------------: |
-| [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) | [code](programmers/lv3/81303.py) | 연결리스트, 구현 |
-
-## Baekjoon
-
-### Bronze
-
-| 문제                                                           |               코드               |             풀이 |
-| -------------------------------------------------------------- | :------------------------------: | ---------------: |
-| [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)      | [code](baekjoon/bronze/1085.py)  |     수학, 기하학 |
-| [팰린드롬수](https://www.acmicpc.net/problem/1259)             | [code](baekjoon/bronze/1259.py)  |     문자열, 구현 |
-| [분해합](https://www.acmicpc.net/problem/2231)                 | [code](baekjoon/bronze/2231.py)  |       브루트포스 |
-| [벌집](https://www.acmicpc.net/problem/2292)                   | [code](baekjoon/bronze/2292.py)  |             수학 |
-| [블랙잭](https://www.acmicpc.net/problem/2798)                 | [code](baekjoon/bronze/2798.py)  | 조합, 브루트포스 |
-| [직각삼각형](https://www.acmicpc.net/problem/4153)             | [code](baekjoon/bronze/4153.py)  |             수학 |
-| [ACM호텔](https://www.acmicpc.net/problem/10250)               | [code](baekjoon/bronze/10250.py) |             수학 |
-| [부녀회장이됥테야](https://www.acmicpc.net/problem/2775)       | [code](baekjoon/bronze/2775.py)  |             수학 |
-| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [code](baekjoon/bronze/2869.py)  |             수학 |
-| [해싱](https://www.acmicpc.net/problem/15829)                  | [code](baekjoon/bronze/15829.py) |       수학, 해시 |
-| [이항계수1](https://www.acmicpc.net/problem/11050)             | [code](baekjoon/bronze/11050.py) |             수학 |
-| [수 정렬하기](https://www.acmicpc.net/problem/2750)            | [code](baekjoon/bronze/2750.py)  |             정렬 |
-
-### Silver
-
-| 문제                                                            |               코드               |                     풀이 |
-| --------------------------------------------------------------- | :------------------------------: | -----------------------: |
-| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)      | [code](baekjoon/silver/1018.py)  |               브루트포스 |
-| [단어 정렬](https://www.acmicpc.net/problem/1181)               | [code](baekjoon/silver/1181.py)  |             문자열, 정렬 |
-| [영화감독 숌](https://www.acmicpc.net/problem/1436)             | [code](baekjoon/silver/1436.py)  |               브루트포스 |
-| [랜선자르기](https://www.acmicpc.net/problem/1654)              | [code](baekjoon/silver/1654.py)  |                 이진탐색 |
-| [스택 수열](https://www.acmicpc.net/problem/1874)               | [code](baekjoon/silver/1874.py)  |                     스택 |
-| [수 찾기](https://www.acmicpc.net/problem/1920)                 | [code](baekjoon/silver/1920.py)  |                     집합 |
-| [소수 구하기](https://www.acmicpc.net/problem/1929)             | [code](baekjoon/silver/1929.py)  |                   정수론 |
-| [프린터 큐](https://www.acmicpc.net/problem/1966)               | [code](baekjoon/silver/1966.py)  |                       큐 |
-| [소수 찾기](https://www.acmicpc.net/problem/1978)               | [code](baekjoon/silver/1978.py)  |                   정수론 |
-| [통계학](https://www.acmicpc.net/problem/2108)                  | [code](baekjoon/silver/2108.py)  |               구현, 정렬 |
-| [카드2](https://www.acmicpc.net/problem/2164)                   | [code](baekjoon/silver/2164.py)  |                       큐 |
-| [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [code](baekjoon/silver/2609.py)  |             수학, 정수론 |
-| [수정렬하기2](https://www.acmicpc.net/problem/2751)             | [code](baekjoon/silver/2751.py)  |                     정렬 |
-| [괄호](https://www.acmicpc.net/problem/9012)                    | [code](baekjoon/silver/9012.py)  |             문자열, 스택 |
-| [나이순정렬](https://www.acmicpc.net/problem/10814)             | [code](baekjoon/silver/10814.py) |                     정렬 |
-| [숫자카드2](https://www.acmicpc.net/problem/10816)              | [code](baekjoon/silver/10816.py) | 정렬, 자료구조, 이진탐색 |
-| [스택](https://www.acmicpc.net/problem/10828)                   | [code](baekjoon/silver/10828.py) |           자료구조, 스택 |
-| [나무자르기](https://www.acmicpc.net/problem/2805)              | [code](baekjoon/silver/2805.py)  |                 이진탐색 |
-| [균형잡힌세상](https://www.acmicpc.net/problem/4949)            | [code](baekjoon/silver/4949.py)  |               문자열, 큐 |
-| [덩치](https://www.acmicpc.net/problem/7568)                    | [code](baekjoon/silver/7568.py)  |               브루트포스 |
-| [제로](https://www.acmicpc.net/problem/10773)                   | [code](baekjoon/silver/10773.py) |                     스택 |
-| [피보나치함수](https://www.acmicpc.net/problem/1003)            | [code](baekjoon/silver/1003.py)  |       다이나믹프로그래밍 |
-| [유기농배추](https://www.acmicpc.net/problem/1012)              | [code](baekjoon/silver/1012.py)  |              그래프, dfs |
-| [DFS와BFS](https://www.acmicpc.net/problem/1260)                | [code](baekjoon/silver/1260.py)  |         그래프, dfs, bfs |
-| [Z](https://www.acmicpc.net/problem/1074)                       | [code](baekjoon/silver/1074.py)  |           분할정복, 재귀 |
-| [!1로만들기](https://www.acmicpc.net/problem/1463)              | [code](baekjoon/silver/1463.py)  |       다이나믹프로그래밍 |
-| [!계단오르기](https://www.acmicpc.net/problem/2579)             | [code](baekjoon/silver/2579.py)  |       다이나믹프로그래밍 |
-| [바이러스](https://www.acmicpc.net/problem/2606)                | [code](baekjoon/silver/2606.py)  |     그래프탐색, dfs, bfs |
-| [비밀번호찾기](https://www.acmicpc.net/problem/17219)           | [code](baekjoon/silver/17219.py) |                     해싱 |
-| [색종이만들기](https://www.acmicpc.net/problem/2630)            | [code](baekjoon/silver/2630.py)  |           재귀, 분할정복 |
-| [뱀과사다리게임](https://www.acmicpc.net/problem/16928)         | [code](baekjoon/silver/16928.py) |              그래프, BFS |
-| [파도반 수열](https://www.acmicpc.net/problem/9461)             | [code](baekjoon/silver/9461.py)  | 다이나믹프로그래밍, 수학 |
-| [최소힙](https://www.acmicpc.net/problem/1927)                  | [code](baekjoon/silver/1927.py)  |               힙, 최소힙 |
-| [!회의실배정](https://www.acmicpc.net/problem/1931)             | [code](baekjoon/silver/1931.py)  |           그리디알고리즘 |
-| [잃어버린괄호](https://www.acmicpc.net/problem/1541)            | [code](baekjoon/silver/1541.py)  |             수학, 그리디 |
-| [케빈베이컨의6단계법칙](https://www.acmicpc.net/problem/1389)   | [code](baekjoon/silver/1389.py)  |              그래프, BFS |
-| [팩토리얼0의개수](https://www.acmicpc.net/problem/1676)         | [code](baekjoon/silver/1676.py)  |               수학, 구현 |
-| [듣보잡](https://www.acmicpc.net/problem/1764)                  | [code](baekjoon/silver/1764.py)  |       문자열, 집합, 정렬 |
-| [!패션왕 신해빈](https://www.acmicpc.net/problem/9375)          | [code](baekjoon/silver/9375.py)  |               수학, 집합 |
-| [포켓몬마스터 이다솜](https://www.acmicpc.net/problem/1620)     | [code](baekjoon/silver/1620.py)  |                     해싱 |
-| [종이의개수](https://www.acmicpc.net/problem/1780)              | [code](baekjoon/silver/1780.py)  |           재귀, 분할정복 |
-| [최대힙](https://www.acmicpc.net/problem/11279)                 | [code](baekjoon/silver/11279.py) |           힙, 우선순위큐 |
-| [집합](https://www.acmicpc.net/problem/11723)                   | [code](baekjoon/silver/11723.py) |         집합, 비트마스킹 |
-| [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)          | [code](baekjoon/silver/9095.py)  |                       DP |
-| [ATM](https://www.acmicpc.net/problem/11399)                    | [code](baekjoon/silver/11399.py) |             그리디, 정렬 |
-| [2xn 타일링](https://www.acmicpc.net/problem/11726)             | [code](baekjoon/silver/11726.py) |                       DP |
-| [!연결 요소의 개수](https://www.acmicpc.net/problem/11724)      | [code](baekjoon/silver/11724.py) |                      DFS |
-| [좌표압축](https://www.acmicpc.net/problem/18870)               | [code](baekjoon/silver/18870.py) |                     정렬 |
-| [숨바꼭질](https://www.acmicpc.net/problem/1697)                | [code](baekjoon/silver/1697.py)  |                      BFS |
-| [Four Squares](https://www.acmicpc.net/problem/17626)           | [code](baekjoon/silver/17626.py) |           DP, 브루트포스 |
-| [RGB거리](https://www.acmicpc.net/problem/1149)                 | [code](baekjoon/silver/1149.py)  |                       DP |
-| [정수 삼각형](https://www.acmicpc.net/problem/1932)             | [code](baekjoon/silver/1932.py)  |                       DP |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667)          | [code](baekjoon/silver/2667.py)  |                 DFS, BFS |
-| [쿼드트리](https://www.acmicpc.net/problem/1992)                | [code](baekjoon/silver/1992.py)  |           분할정복, 재귀 |
-| [미로 탐색](https://www.acmicpc.net/problem/2178)               | [code](baekjoon/silver/2178.py)  |                      BFS |
-| [동전 0](https://www.acmicpc.net/problem/11047)                 | [code](baekjoon/silver/11047.py) |                   그리디 |
-| [카잉당력](https://www.acmicpc.net/problem/6064)                | [code](baekjoon/silver/6064.py)  |             수학, 정수론 |
-| [IOIOI](https://www.acmicpc.net/problem/5525)                   | [code](baekjoon/silver/5525.py)  |                   문자열 |
-| [절댓값힙](https://www.acmicpc.net/problem/11286)               | [code](baekjoon/silver/11286.py) |           힙, 우선순위큐 |
-| [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)       | [code](baekjoon/silver/11659.py) |                   부분합 |
-| [2xn 타일링 2](https://www.acmicpc.net/problem/11727)           | [code](baekjoon/silver/11727.py) |                       DP |
-| [01타일](https://www.acmicpc.net/problem/1904)                  | [code](baekjoon/silver/1904.py)  |                       DP |
-| [수 정렬하기3](https://www.acmicpc.net/problem/10989)           | [code](baekjoon/silver/10989.py) |                     정렬 |
-| [숫자카드](https://www.acmicpc.net/problem/10815)               | [code](baekjoon/silver/10815.py) |                 이분탐색 |
-| [에디터](https://www.acmicpc.net/problem/1406)                  | [code](baekjoon/silver/1406.py)  |         문자열, 스택, 큐 |
-| [보물](https://www.acmicpc.net/problem/1026)                    | [code](baekjoon/silver/1026.py)  |             정렬, 그리디 |
-| [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)        | [code](baekjoon/silver/11651.py) |                     정렬 |
-| [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)     | [code](baekjoon/silver/10867.py) |                     정렬 |
-| [요세우스 문제](https://www.acmicpc.net/problem/1158)           | [code](baekjoon/silver/1158.py)  |                       큐 |
-| [로또](https://www.acmicpc.net/problem/6603)                    | [code](baekjoon/silver/6603.py)  |                     조합 |
-| [부분수열의 합](https://www.acmicpc.net/problem/1182)           | [code](baekjoon/silver/1182.py)  |                     조합 |
-| [약수](https://www.acmicpc.net/problem/1037)                    | [code](baekjoon/silver/1037.py)  |                   정수론 |
-| [요세우스 문제 0](https://www.acmicpc.net/problem/11866)        | [code](baekjoon/silver/11866.py) |             문자열, 스택 |
-
-### Gold
-
-| 문제                                                     |              코드              |                     풀이 |
-| -------------------------------------------------------- | :----------------------------: | -----------------------: |
-| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [code](baekjoon/gold/7662.py)  |           힙, 우선순위큐 |
-| [토마토](https://www.acmicpc.net/problem/7576)           | [code](baekjoon/gold/7576.py)  |                      BFS |
-| [리모컨](https://www.acmicpc.net/problem/1107)           | [code](baekjoon/gold/1107.py)  |               브루트포스 |
-| [AC](https://www.acmicpc.net/problem/5430)               | [code](baekjoon/gold/5430.py)  |         구현, 문자열, 덱 |
-| [N-Queen](https://www.acmicpc.net/problem/9663)          | [code](baekjoon/gold/9663.py)  |     브루트포스, 백트래킹 |
-| [연료 채우기](https://www.acmicpc.net/problem/1826)      | [code](baekjoon/gold/1826.py)  | 그리디, 우선순위큐, 정렬 |
-| [적록색약](https://www.acmicpc.net/problem/10026)        | [code](baekjoon/gold/10026.py) |         그래프, dfs, bfs |
-| [테트로미노](https://www.acmicpc.net/problem/14500)      | [code](baekjoon/gold/14500.py) |         구현, 브루트포스 |
-| [DSLR](https://www.acmicpc.net/problem/9019)             | [code](baekjoon/gold/9019.py)  |                      BFS |
-| [토마토2](https://www.acmicpc.net/problem/7569)          | [code](baekjoon/gold/7569.py)  |                      BFS |
-| [아기상어](https://www.acmicpc.net/problem/16236)        | [code](baekjoon/gold/16236.py) |                      BFS |
-
-## Leetcode
-
-### Easy
-
-| 문제                                                                  |             코드              |                               풀이 |
-| --------------------------------------------------------------------- | :---------------------------: | ---------------------------------: |
-| [Height Checker](https://leetcode.com/problems/height-checker/)       | [code](leetcode/easy/1051.py) |                               정렬 |
-| [Shuffle the Array](https://leetcode.com/problems/Shuffle-the-Array/) | [code](leetcode/easy/1470.py) |                              Array |
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)         | [code](leetcode/easy/242.py)  | 해시테이블(딕셔너리), 문자열, 정렬 |
-
-### Medium
-
-| 문제                                                                                   |             코드             |                       풀이 |
-| -------------------------------------------------------------------------------------- | :--------------------------: | -------------------------: |
-| [Height Checker](https://leetcode.com/longest-substring-without-repeating-characters/) | [code](leetcode/medium/3.py) | hash table, Sliding window |
+# 알고리즘 공부
+> 알고리즘 학습을 위한 Repository
+## 🧷 [Baekjoon Online Judge](https://www.acmicpc.net/)
+|번호|tag|태그|레벨|문제|코드|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1003|dynamic programming|다이나믹 프로그래밍|Silver III|[피보나치 함수](https://www.acmicpc.net/problem/1003)|[1003.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1003.py)|
+|1012|depth-first search|깊이 우선 탐색|Silver II|[유기농 배추](https://www.acmicpc.net/problem/1012)|[1012.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1012.py)|
+|1018|bruteforcing|브루트포스 알고리즘|Silver IV|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[1018.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1018.py)|
+|1026|sorting|정렬|Silver IV|[보물](https://www.acmicpc.net/problem/1026)|[1026.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1026.py)|
+|1037|number theory|정수론|Bronze I|[약수](https://www.acmicpc.net/problem/1037)|[1037.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1037.py)|
+|1074|recursion|재귀|Silver I|[Z](https://www.acmicpc.net/problem/1074)|[1074.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1074.py)|
+|1085|mathematics|수학|Bronze III|[직사각형에서 탈출](https://www.acmicpc.net/problem/1085)|[1085.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1085.py)|
+|1107|bruteforcing|브루트포스 알고리즘|Gold V|[리모컨](https://www.acmicpc.net/problem/1107)|[1107.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1107.py)|
+|1149|dynamic programming|다이나믹 프로그래밍|Silver I|[RGB거리](https://www.acmicpc.net/problem/1149)|[1149.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1149.py)|
+|1158|queue|큐|Silver IV|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|[1158.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1158.py)|
+|1181|string|문자열|Silver V|[단어 정렬](https://www.acmicpc.net/problem/1181)|[1181.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1181.py)|
+|1182|bruteforcing|브루트포스 알고리즘|Silver II|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[1182.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1182.py)|
+|1259|string|문자열|Bronze I|[팰린드롬수](https://www.acmicpc.net/problem/1259)|[1259.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1259.py)|
+|1260|depth-first search|깊이 우선 탐색|Silver II|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[1260.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1260.py)|
+|1389|graph traversal|그래프 탐색|Silver I|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[1389.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1389.py)|
+|1406|stack|스택|Silver II|[에디터](https://www.acmicpc.net/problem/1406)|[1406.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1406.py)|
+|1436|bruteforcing|브루트포스 알고리즘|Silver V|[영화감독 숌](https://www.acmicpc.net/problem/1436)|[1436.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1436.py)|
+|1463|dynamic programming|다이나믹 프로그래밍|Silver III|[1로 만들기](https://www.acmicpc.net/problem/1463)|[1463.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1463.py)|
+|1541|string|문자열|Silver II|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[1541.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1541.py)|
+|1620|set / map by hashing|해시를 사용한 집합과 맵|Silver IV|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|[1620.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1620.py)|
+|1654|parametric search|매개 변수 탐색|Silver II|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[1654.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1654.py)|
+|1676|mathematics|수학|Silver V|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[1676.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1676.py)|
+|1697|graph traversal|그래프 탐색|Silver I|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[1697.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1697.py)|
+|1764|string|문자열|Silver IV|[듣보잡](https://www.acmicpc.net/problem/1764)|[1764.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1764.py)|
+|1780|recursion|재귀|Silver II|[종이의 개수](https://www.acmicpc.net/problem/1780)|[1780.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1780.py)|
+|1826|sorting|정렬|Gold II|[연료 채우기](https://www.acmicpc.net/problem/1826)|[1826.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1826.py)|
+|1874|stack|스택|Silver II|[스택 수열](https://www.acmicpc.net/problem/1874)|[1874.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1874.py)|
+|1904|dynamic programming|다이나믹 프로그래밍|Silver III|[01타일](https://www.acmicpc.net/problem/1904)|[1904.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1904.py)|
+|1920|sorting|정렬|Silver IV|[수 찾기](https://www.acmicpc.net/problem/1920)|[1920.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1920.py)|
+|1927|priority queue|우선순위 큐|Silver II|[최소 힙](https://www.acmicpc.net/problem/1927)|[1927.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1927.py)|
+|1929|sieve of eratosthenes|에라토스테네스의 체|Silver III|[소수 구하기](https://www.acmicpc.net/problem/1929)|[1929.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1929.py)|
+|1931|sorting|정렬|Silver I|[회의실 배정](https://www.acmicpc.net/problem/1931)|[1931.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1931.py)|
+|1932|dynamic programming|다이나믹 프로그래밍|Silver I|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[1932.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1932.py)|
+|1966|simulation|시뮬레이션|Silver III|[프린터 큐](https://www.acmicpc.net/problem/1966)|[1966.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1966.py)|
+|1978|mathematics|수학|Bronze II|[소수 찾기](https://www.acmicpc.net/problem/1978)|[1978.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1978.py)|
+|1992|recursion|재귀|Silver I|[쿼드트리](https://www.acmicpc.net/problem/1992)|[1992.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon1992.py)|
+|2108|sorting|정렬|Silver III|[통계학](https://www.acmicpc.net/problem/2108)|[2108.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2108.py)|
+|2164|queue|큐|Silver IV|[카드2](https://www.acmicpc.net/problem/2164)|[2164.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2164.py)|
+|2178|graph traversal|그래프 탐색|Silver I|[미로 탐색](https://www.acmicpc.net/problem/2178)|[2178.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2178.py)|
+|2231|bruteforcing|브루트포스 알고리즘|Bronze II|[분해합](https://www.acmicpc.net/problem/2231)|[2231.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2231.py)|
+|2292|mathematics|수학|Bronze II|[벌집](https://www.acmicpc.net/problem/2292)|[2292.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2292.py)|
+|2579|dynamic programming|다이나믹 프로그래밍|Silver III|[계단 오르기](https://www.acmicpc.net/problem/2579)|[2579.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2579.py)|
+|2606|depth-first search|깊이 우선 탐색|Silver III|[바이러스](https://www.acmicpc.net/problem/2606)|[2606.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2606.py)|
+|2609|number theory|정수론|Bronze I|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[2609.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2609.py)|
+|2630|recursion|재귀|Silver II|[색종이 만들기](https://www.acmicpc.net/problem/2630)|[2630.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2630.py)|
+|2667|graph traversal|그래프 탐색|Silver I|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[2667.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2667.py)|
+|2750|implementation|구현|Bronze II|[수 정렬하기](https://www.acmicpc.net/problem/2750)|[2750.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2750.py)|
+|2751|sorting|정렬|Silver V|[수 정렬하기 2](https://www.acmicpc.net/problem/2751)|[2751.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2751.py)|
+|2775|mathematics|수학|Bronze I|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[2775.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2775.py)|
+|2798|bruteforcing|브루트포스 알고리즘|Bronze II|[블랙잭](https://www.acmicpc.net/problem/2798)|[2798.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2798.py)|
+|2805|parametric search|매개 변수 탐색|Silver II|[나무 자르기](https://www.acmicpc.net/problem/2805)|[2805.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2805.py)|
+|2869|mathematics|수학|Bronze I|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[2869.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon2869.py)|
+|4153|pythagoras theorem|피타고라스 정리|Bronze III|[직각삼각형](https://www.acmicpc.net/problem/4153)|[4153.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon4153.py)|
+|4949|string|문자열|Silver IV|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[4949.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon4949.py)|
+|5430|data structures|자료 구조|Gold V|[AC](https://www.acmicpc.net/problem/5430)|[5430.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon5430.py)|
+|5525|string|문자열|Silver I|[IOIOI](https://www.acmicpc.net/problem/5525)|[5525.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon5525.py)|
+|6064|number theory|정수론|Silver I|[카잉 달력](https://www.acmicpc.net/problem/6064)|[6064.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon6064.py)|
+|6603|recursion|재귀|Silver II|[로또](https://www.acmicpc.net/problem/6603)|[6603.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon6603.py)|
+|7568|implementation|구현|Silver V|[덩치](https://www.acmicpc.net/problem/7568)|[7568.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon7568.py)|
+|7569|graph traversal|그래프 탐색|Gold V|[토마토](https://www.acmicpc.net/problem/7569)|[7569.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon7569.py)|
+|7576|graph traversal|그래프 탐색|Gold V|[토마토](https://www.acmicpc.net/problem/7576)|[7576.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon7576.py)|
+|7662|set / map by trees|트리를 사용한 집합과 맵|Gold IV|[이중 우선순위 큐](https://www.acmicpc.net/problem/7662)|[7662.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon7662.py)|
+|9012|string|문자열|Silver IV|[괄호](https://www.acmicpc.net/problem/9012)|[9012.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon9012.py)|
+|9019|graph traversal|그래프 탐색|Gold IV|[DSLR](https://www.acmicpc.net/problem/9019)|[9019.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon9019.py)|
+|9095|dynamic programming|다이나믹 프로그래밍|Silver III|[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|[9095.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon9095.py)|
+|9375|mathematics|수학|Silver III|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[9375.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon9375.py)|
+|9461|mathematics|수학|Silver III|[파도반 수열](https://www.acmicpc.net/problem/9461)|[9461.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon9461.py)|
+|9663|bruteforcing|브루트포스 알고리즘|Gold IV|[N-Queen](https://www.acmicpc.net/problem/9663)|[9663.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon9663.py)|
+|10026|graph traversal|그래프 탐색|Gold V|[적록색약](https://www.acmicpc.net/problem/10026)|[10026.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon10026.py)|
+|10250|mathematics|수학|Bronze III|[ACM 호텔](https://www.acmicpc.net/problem/10250)|[10250.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon10250.py)|
+|10773|stack|스택|Silver IV|[제로](https://www.acmicpc.net/problem/10773)|[10773.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon10773.py)|
+|10814|sorting|정렬|Silver V|[나이순 정렬](https://www.acmicpc.net/problem/10814)|[10814.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon10814.py)|
+|10815|sorting|정렬|Silver V|[숫자 카드](https://www.acmicpc.net/problem/10815)|[10815.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon10815.py)|
+|10816|sorting|정렬|Silver IV|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|[10816.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon10816.py)|
+|10828|stack|스택|Silver IV|[스택](https://www.acmicpc.net/problem/10828)|[10828.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon10828.py)|
+|10867|sorting|정렬|Silver V|[중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)|[10867.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon10867.py)|
+|10989|sorting|정렬|Bronze I|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[10989.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon10989.py)|
+|11047|greedy|그리디 알고리즘|Silver IV|[동전 0](https://www.acmicpc.net/problem/11047)|[11047.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11047.py)|
+|11050|mathematics|수학|Bronze I|[이항 계수 1](https://www.acmicpc.net/problem/11050)|[11050.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11050.py)|
+|11279|priority queue|우선순위 큐|Silver II|[최대 힙](https://www.acmicpc.net/problem/11279)|[11279.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11279.py)|
+|11286|priority queue|우선순위 큐|Silver I|[절댓값 힙](https://www.acmicpc.net/problem/11286)|[11286.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11286.py)|
+|11399|sorting|정렬|Silver IV|[ATM](https://www.acmicpc.net/problem/11399)|[11399.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11399.py)|
+|11403|graph traversal|그래프 탐색|Silver I|[경로 찾기](https://www.acmicpc.net/problem/11403)|[11403.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11403.py)|
+|11650|sorting|정렬|Silver V|[좌표 정렬하기](https://www.acmicpc.net/problem/11650)|[11650.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11650.py)|
+|11651|sorting|정렬|Silver V|[좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)|[11651.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11651.py)|
+|11659|prefix sum|누적 합|Silver III|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|[11659.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11659.py)|
+|11723|implementation|구현|Silver V|[집합](https://www.acmicpc.net/problem/11723)|[11723.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11723.py)|
+|11724|depth-first search|깊이 우선 탐색|Silver II|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[11724.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11724.py)|
+|11726|dynamic programming|다이나믹 프로그래밍|Silver III|[2×n 타일링](https://www.acmicpc.net/problem/11726)|[11726.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11726.py)|
+|11727|dynamic programming|다이나믹 프로그래밍|Silver III|[2×n 타일링 2](https://www.acmicpc.net/problem/11727)|[11727.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11727.py)|
+|11866|queue|큐|Silver V|[요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|[11866.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon11866.py)|
+|12933|string|문자열|Silver III|[오리](https://www.acmicpc.net/problem/12933)|[12933.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon12933.py)|
+|14500|implementation|구현|Gold IV|[테트로미노](https://www.acmicpc.net/problem/14500)|[14500.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon14500.py)|
+|15829|string|문자열|Bronze II|[Hashing](https://www.acmicpc.net/problem/15829)|[15829.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon15829.py)|
+|16236|simulation|시뮬레이션|Gold III|[아기 상어](https://www.acmicpc.net/problem/16236)|[16236.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon16236.py)|
+|16928|graph traversal|그래프 탐색|Gold V|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[16928.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon16928.py)|
+|17219|set / map by hashing|해시를 사용한 집합과 맵|Silver IV|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[17219.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon17219.py)|
+|17626|dynamic programming|다이나믹 프로그래밍|Silver III|[Four Squares](https://www.acmicpc.net/problem/17626)|[17626.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon17626.py)|
+|18870|sorting|정렬|Silver II|[좌표 압축](https://www.acmicpc.net/problem/18870)|[18870.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon18870.py)|
