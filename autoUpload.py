@@ -42,6 +42,7 @@ def get_problem_info(problemId):
 
 
 def updateAll():
+    print(listdir('./'))
     file_list = listdir(
         "./baekjoon")
     file_list = list(map(lambda x: x.replace('.py', ''), file_list))
