@@ -102,3 +102,4 @@
 |17219|set / map by hashing|해시를 사용한 집합과 맵|Silver IV|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[17219.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon17219.py)|
 |17626|dynamic programming|다이나믹 프로그래밍|Silver III|[Four Squares](https://www.acmicpc.net/problem/17626)|[17626.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon17626.py)|
 |18870|sorting|정렬|Silver II|[좌표 압축](https://www.acmicpc.net/problem/18870)|[18870.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon18870.py)|
+|25215|greedy|그리디 알고리즘|Silver I|[타이핑](https://www.acmicpc.net/problem/25215)|[25215.py](https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon25215.py)|
