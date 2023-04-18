@@ -3,7 +3,7 @@ from io import *
 import requests
 import json
 
-MY_GITHUB_URL = "https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon"
+MY_GITHUB_URL = "https://github.com/honeyuheony/Algorithm_with_python/tree/main/baekjoon/"
 BOJ_URL = "https://www.acmicpc.net/problem/"
 LEVEL_DIC = {0: 'Unrated', 1: 'Bronze V', 2: 'Bronze IV', 3: 'Bronze III', 4: 'Bronze II', 5: 'Bronze I',
              6: 'Silver V', 7: 'Silver IV', 8: 'Silver III', 9: 'Silver II', 10: 'Silver I',
