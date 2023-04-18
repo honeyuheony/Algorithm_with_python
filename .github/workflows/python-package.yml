@@ -38,4 +38,5 @@ jobs:
           git commit -am "auto-update README.md" # 커밋 메시지
       - name: Push changes
         run: |
+          gir pull origin main
           git push
